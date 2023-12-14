@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Скоропечатание/1.0.0": {
+        "runtime": {
+          "Скоропечатание.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Скоропечатание/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
